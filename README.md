@@ -14,13 +14,13 @@ A comprehensive web development learning resource covering essential front-end a
 
 ## Content
 
-- **01 - Basic HTML**: Introduction to HTML structure, elements, and semantic markup.  
-- **02 - Advanced HTML**: Forms, multimedia, and accessibility best practices.  
-- **03 - Basic CSS**: Styling fundamentals, selectors, and the box model.  
-- **04 - Advanced CSS**: Flexbox, Grid, animations, and responsive design.  
-- **05 - Basic JavaScript**: Variables, functions, loops, and event handling.  
-- **06 - Advanced JavaScript**: DOM manipulation, asynchronous programming, and ES6+ features.  
-- **07 - Node.js**: Introduction to server-side JavaScript, modules, and file handling.  
-- **08 - Express.js**: Building RESTful APIs and handling routing and middleware.  
-- **09 - MongoDB**: Database fundamentals, CRUD operations, and schema design.  
-- **10 - Bootstrap**: Responsive UI components and grid system for modern web design.  
+- 01 - Basic HTML
+- 02 - Advanced HTML 
+- 03 - Basic CSS
+- 04 - Advanced CSS
+- 05 - Basic JavaScript
+- 06 - Advanced JavaScript
+- 07 - Node.js
+- 08 - Express.js
+- 09 - MongoDB
+- 10 - Bootstrap
